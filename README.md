@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Quantum Hardware Jobs — 2026
 
-<sub><small>Last updated: Oct 15, 2026 at 16:56 UTC</small></sub>
+<sub><small>Last updated: Oct 20, 2026 at 17:00 UTC</small></sub>
 
 Daily quantum hardware jobs curated by Jobs in Quantum.
 Updated daily by [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs).
@@ -12,6 +12,11 @@ Visit [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[IonQ](https://jobsinquantum.com/jobs/ionq-senior-cryogenic-engineer-f07c7d31?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Senior Cryogenic Engineer](https://jobsinquantum.com/jobs/ionq-senior-cryogenic-engineer-f07c7d31?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Geneva, Switzerland | On Site | Full Time | Oct 19 |
+| **[Atom Computing](https://jobsinquantum.com/jobs/atom-computing-lead-quality-control-inspector-26695119?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Lead Quality Control Inspector](https://jobsinquantum.com/jobs/atom-computing-lead-quality-control-inspector-26695119?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Boulder, CO | On Site | Full Time | Oct 18 |
+| **[Atom Computing](https://jobsinquantum.com/jobs/atom-computing-principal-subsystem-build-and-test-engineer-7019bce0?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Principal Subsystem Build & Test Engineer](https://jobsinquantum.com/jobs/atom-computing-principal-subsystem-build-and-test-engineer-7019bce0?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Boulder, CO | On Site | Full Time | Oct 17 |
+| **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-staff-firmware-engineer-c10d1656?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Staff Firmware Engineer](https://jobsinquantum.com/jobs/psiquantum-staff-firmware-engineer-c10d1656?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Milpitas, California, United States | On Site | Full Time | Oct 15 |
+| **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-npi-test-engineer-b96c3faf?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[NPI Test Engineer](https://jobsinquantum.com/jobs/psiquantum-npi-test-engineer-b96c3faf?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Singapore | On Site | Full Time | Oct 15 |
 | **[Atom Computing](https://jobsinquantum.com/jobs/atom-computing-subsystem-build-and-test-manager-2c958b27?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Subsystem Build and Test Manager](https://jobsinquantum.com/jobs/atom-computing-subsystem-build-and-test-manager-2c958b27?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Boulder, CO | On Site | Full Time | Oct 15 |
 | **[Atom Computing](https://jobsinquantum.com/jobs/atom-computing-principal-manufacturing-quality-engineer-e03e07ee?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Principal Manufacturing Quality Engineer](https://jobsinquantum.com/jobs/atom-computing-principal-manufacturing-quality-engineer-e03e07ee?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Boulder, CO | On Site | Full Time | Oct 15 |
 | **[Atom Computing](https://jobsinquantum.com/jobs/atom-computing-planning-and-configuration-control-manager-41870b78?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Planning and Configuration Control Manager](https://jobsinquantum.com/jobs/atom-computing-planning-and-configuration-control-manager-41870b78?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Boulder, CO | On Site | Full Time | Oct 15 |
@@ -57,20 +62,15 @@ Visit [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=r
 | **[IonQ](https://jobsinquantum.com/jobs/ionq-senior-account-executive-us-federal-space-force-27895143?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Senior Account Executive - US Federal - Space Force](https://jobsinquantum.com/jobs/ionq-senior-account-executive-us-federal-space-force-27895143?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Remote, US | Remote | Full Time | Sep 22 |
 | **[IonQ](https://jobsinquantum.com/jobs/ionq-senior-account-executive-us-federal-space-force-5f26056d?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Senior Account Executive - US Federal - Space Force](https://jobsinquantum.com/jobs/ionq-senior-account-executive-us-federal-space-force-5f26056d?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Remote, US | Remote | Full Time | Sep 22 |
 | **[IonQ](https://jobsinquantum.com/jobs/ionq-senior-account-executive-specialty-sales-quantum-sensing-8aa2aec8?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Senior Account Executive Specialty Sales, Quantum Sensing](https://jobsinquantum.com/jobs/ionq-senior-account-executive-specialty-sales-quantum-sensing-8aa2aec8?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Remote, US | Remote | Full Time | Sep 22 |
-| **[IonQ](https://jobsinquantum.com/jobs/ionq-senior-account-executive-specialty-sales-quantum-sensing-11b9f461?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Senior Account Executive Specialty Sales, Quantum Sensing](https://jobsinquantum.com/jobs/ionq-senior-account-executive-specialty-sales-quantum-sensing-11b9f461?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Remote, US | Remote | Full Time | Sep 22 |
-| **[IonQ](https://jobsinquantum.com/jobs/ionq-senior-staff-quantum-physicist-0da9caaa?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Senior Staff Quantum Physicist](https://jobsinquantum.com/jobs/ionq-senior-staff-quantum-physicist-0da9caaa?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Albuquerque, New Mexico, United States; Boulder, Colorado, United States | On Site | Full Time | Sep 19 |
-| **[IonQ](https://jobsinquantum.com/jobs/ionq-senior-staff-quantum-scientist-be6a6937?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Senior Staff Quantum Scientist](https://jobsinquantum.com/jobs/ionq-senior-staff-quantum-scientist-be6a6937?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Albuquerque, New Mexico, United States; Boulder, Colorado, United States | On Site | Full Time | Sep 19 |
-| **[Atom Computing](https://jobsinquantum.com/jobs/atom-computing-quantum-error-correction-theorist-7c2b09c6?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Quantum Error Correction Theorist](https://jobsinquantum.com/jobs/atom-computing-quantum-error-correction-theorist-7c2b09c6?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Berkeley, CA | On Site | Full Time | Sep 15 |
-| **[Atom Computing](https://jobsinquantum.com/jobs/atom-computing-hardware-engineering-manager-2885f20a?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Hardware Engineering Manager](https://jobsinquantum.com/jobs/atom-computing-hardware-engineering-manager-2885f20a?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Boulder, CO | On Site | Full Time | Sep 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 3 companies | 0 salary ranges listed
+**Current Stats:** 50 jobs | 12% remote | 3 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-15 archive](archive/2026-10-15.md)
+- [2026-10-20 archive](archive/2026-10-20.md)
 
 ## About This Repository
 
