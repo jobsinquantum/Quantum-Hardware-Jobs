@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Quantum Hardware Jobs — 2026
 
-<sub><small>Last updated: Oct 20, 2026 at 17:00 UTC</small></sub>
+<sub><small>Last updated: Oct 22, 2026 at 17:06 UTC</small></sub>
 
 Daily quantum hardware jobs curated by Jobs in Quantum.
 Updated daily by [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs).
@@ -65,12 +65,12 @@ Visit [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=r
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 3 companies | 0 salary ranges listed
+**Current Stats:** 50 jobs | 12% remote | 3 companies | 3 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-20 archive](archive/2026-10-20.md)
+- [2026-10-22 archive](archive/2026-10-22.md)
 
 ## About This Repository
 
