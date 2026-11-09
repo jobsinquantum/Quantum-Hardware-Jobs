@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Quantum Hardware Jobs — 2026
 
-<sub><small>Last updated: Nov 8, 2026 at 17:55 UTC</small></sub>
+<sub><small>Last updated: Nov 9, 2026 at 22:17 UTC</small></sub>
 
 Daily quantum hardware jobs curated by Jobs in Quantum.
 Updated daily by [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs).
@@ -12,7 +12,7 @@ Visit [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
-| **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Technical Programme Manager, Manufacturing and Deployment](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Bothell, Washington, United States | On Site | Full Time | Nov 8 |
+| **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Technical Programme Manager, Manufacturing and Deployment](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Bothell, Washington, United States | On Site | Full Time | Nov 9 |
 | **[Quantinuum](https://jobsinquantum.com/jobs/quantinuum-director-technical-program-management-1127-fa8914d4?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Director, Technical Program Management - 1127](https://jobsinquantum.com/jobs/quantinuum-director-technical-program-management-1127-fa8914d4?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Singapore | On Site | Full Time | Nov 6 |
 | **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-executive-assistant-3853dac3?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Executive Assistant](https://jobsinquantum.com/jobs/psiquantum-executive-assistant-3853dac3?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Palo Alto, California | On Site | Full Time | Nov 5 |
 | **[Quantinuum](https://jobsinquantum.com/jobs/quantinuum-semiconductor-trap-fabrication-scientist-1118-42f408f8?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Semiconductor Trap Fabrication Scientist - 1118](https://jobsinquantum.com/jobs/quantinuum-semiconductor-trap-fabrication-scientist-1118-42f408f8?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | US Brooklyn Park, MN | On Site | Full Time | Nov 5 |
@@ -70,7 +70,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-08 archive](archive/2026-11-08.md)
+- [2026-11-09 archive](archive/2026-11-09.md)
 
 ## About This Repository
 
