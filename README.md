@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Quantum Hardware Jobs — 2026
 
-<sub><small>Last updated: Nov 12, 2026 at 19:53 UTC</small></sub>
+<sub><small>Last updated: Nov 13, 2026 at 19:38 UTC</small></sub>
 
 Daily quantum hardware jobs curated by Jobs in Quantum.
 Updated daily by [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs).
@@ -12,7 +12,7 @@ Visit [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
-| **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Technical Programme Manager, Manufacturing and Deployment](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Bothell, Washington, United States | On Site | Full Time | Nov 12 |
+| **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Technical Programme Manager, Manufacturing and Deployment](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Bothell, Washington, United States | On Site | Full Time | Nov 13 |
 | **[Atom Computing](https://jobsinquantum.com/jobs/atom-computing-manager-devops-and-security-engineering-d1f1782e?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Manager, DevOps and Security Engineering](https://jobsinquantum.com/jobs/atom-computing-manager-devops-and-security-engineering-d1f1782e?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Boulder, CO | On Site | Full Time | Nov 11 |
 | **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-senior-cryogenic-business-development-and-program-manager-86aeff75?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Senior Cryogenic Business Development & Program Manager](https://jobsinquantum.com/jobs/psiquantum-senior-cryogenic-business-development-and-program-manager-86aeff75?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Palo Alto, California | On Site | Full Time | Nov 10 |
 | **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-principal-hardware-engineer-7a341a14?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Principal Hardware Engineer](https://jobsinquantum.com/jobs/psiquantum-principal-hardware-engineer-7a341a14?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Milpitas, California | On Site | Full Time | Nov 10 |
@@ -70,7 +70,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-12 archive](archive/2026-11-12.md)
+- [2026-11-13 archive](archive/2026-11-13.md)
 
 ## About This Repository
 
