@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Quantum Hardware Jobs — 2026
 
-<sub><small>Last updated: Nov 18, 2026 at 20:27 UTC</small></sub>
+<sub><small>Last updated: Nov 19, 2026 at 20:30 UTC</small></sub>
 
 Daily quantum hardware jobs curated by Jobs in Quantum.
 Updated daily by [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs).
@@ -12,11 +12,13 @@ Visit [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
-| **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Technical Programme Manager, Manufacturing and Deployment](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Bothell, Washington, United States | On Site | Full Time | Nov 18 |
+| **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Technical Programme Manager, Manufacturing and Deployment](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Bothell, Washington, United States | On Site | Full Time | Nov 19 |
+| **[Quantinuum](https://jobsinquantum.com/jobs/quantinuum-advanced-r-and-d-scientist-quantum-chemistry-applications-73824fd4?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Advanced R&D Scientist, Quantum Chemistry Applications](https://jobsinquantum.com/jobs/quantinuum-advanced-r-and-d-scientist-quantum-chemistry-applications-73824fd4?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | UK Cambridge | On Site | Full Time | Nov 18 |
 | **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-senior-talent-partner-1c7a1589?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Senior Talent Partner](https://jobsinquantum.com/jobs/psiquantum-senior-talent-partner-1c7a1589?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | U.S. Field - Illinois | On Site | Full Time | Nov 17 |
 | **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-associate-process-engineer-d09a9f36?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Associate Process Engineer](https://jobsinquantum.com/jobs/psiquantum-associate-process-engineer-d09a9f36?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Milpitas, California | On Site | Full Time | Nov 17 |
 | **[IonQ](https://jobsinquantum.com/jobs/ionq-senior-physicist-production-systems-and-integration-bce08732?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Senior Physicist - Production Systems & Integration](https://jobsinquantum.com/jobs/ionq-senior-physicist-production-systems-and-integration-bce08732?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Bothell, Washington, United States | On Site | Full Time | Nov 17 |
 | **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-photonics-test-and-characterization-engineer-09397ef4?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Photonics Test and Characterization Engineer](https://jobsinquantum.com/jobs/psiquantum-photonics-test-and-characterization-engineer-09397ef4?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Milpitas, California | On Site | Full Time | Nov 16 |
+| **[Quantinuum](https://jobsinquantum.com/jobs/quantinuum-sr-ion-trap-test-technician-1140-df5ee4ac?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Sr. Ion Trap Test Technician - 1140](https://jobsinquantum.com/jobs/quantinuum-sr-ion-trap-test-technician-1140-df5ee4ac?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | US Brooklyn Park, MN | On Site | Full Time | Nov 16 |
 | **[Infleqtion](https://jobsinquantum.com/jobs/infleqtion-senior-manufacturing-engineer-qs-83189394?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Senior Manufacturing Engineer (QS)](https://jobsinquantum.com/jobs/infleqtion-senior-manufacturing-engineer-qs-83189394?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Louisville, United States | On Site | Full Time | Nov 16 |
 | **[Infleqtion](https://jobsinquantum.com/jobs/infleqtion-senior-optical-time-and-frequency-transfer-scientist-544b7d57?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Senior Optical Time and Frequency Transfer Scientist](https://jobsinquantum.com/jobs/infleqtion-senior-optical-time-and-frequency-transfer-scientist-544b7d57?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Louisville, United States | On Site | Full Time | Nov 16 |
 | **[Infleqtion](https://jobsinquantum.com/jobs/infleqtion-staff-photonics-design-engineer-5f47173f?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Staff Photonics Design Engineer](https://jobsinquantum.com/jobs/infleqtion-staff-photonics-design-engineer-5f47173f?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Louisville, United States | On Site | Full Time | Nov 16 |
@@ -60,17 +62,15 @@ Visit [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=r
 | **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-director-physical-security-2e2a6e8b?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Director, Physical Security](https://jobsinquantum.com/jobs/psiquantum-director-physical-security-2e2a6e8b?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Milpitas, California | On Site | Full Time | Nov 2 |
 | **[Keysight Technologies](https://jobsinquantum.com/jobs/keysight-technologies-software-engineer-c-and-c-awg-with-focus-on-software-architecture-d14ef0a4?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Software Engineer C# and C++ - AWG with Focus on Software Architecture](https://jobsinquantum.com/jobs/keysight-technologies-software-engineer-c-and-c-awg-with-focus-on-software-architecture-d14ef0a4?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Boeblingen, Germany | On Site | Full Time | Nov 2 |
 | **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-system-delivery-8b41dfa7?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Technical Programme Manager, System Delivery](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-system-delivery-8b41dfa7?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Oxford, England, United Kingdom | On Site | Full Time | Nov 2 |
-| **[Psiquantum](https://jobsinquantum.com/jobs/psiquantum-r-and-d-technician-05430bbd?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[R&D Technician](https://jobsinquantum.com/jobs/psiquantum-r-and-d-technician-05430bbd?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | New York | On Site | Full Time | Nov 2 |
-| **[Psiquantum](https://jobsinquantum.com/jobs/psiquantum-cryogenic-electrical-interconnect-engineer-803b1a0a?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Cryogenic Electrical Interconnect Engineer](https://jobsinquantum.com/jobs/psiquantum-cryogenic-electrical-interconnect-engineer-803b1a0a?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Milpitas, California | On Site | Full Time | Nov 2 |
 
 ---
 
-**Current Stats:** 50 jobs | 0% remote | 10 companies | 5 salary ranges listed
+**Current Stats:** 50 jobs | 0% remote | 9 companies | 5 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-18 archive](archive/2026-11-18.md)
+- [2026-11-19 archive](archive/2026-11-19.md)
 
 ## About This Repository
 
