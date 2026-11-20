@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Quantum Hardware Jobs — 2026
 
-<sub><small>Last updated: Nov 19, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 20, 2026 at 20:06 UTC</small></sub>
 
 Daily quantum hardware jobs curated by Jobs in Quantum.
 Updated daily by [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs).
@@ -12,7 +12,7 @@ Visit [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
-| **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Technical Programme Manager, Manufacturing and Deployment](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Bothell, Washington, United States | On Site | Full Time | Nov 19 |
+| **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Technical Programme Manager, Manufacturing and Deployment](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Bothell, Washington, United States | On Site | Full Time | Nov 20 |
 | **[Quantinuum](https://jobsinquantum.com/jobs/quantinuum-advanced-r-and-d-scientist-quantum-chemistry-applications-73824fd4?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Advanced R&D Scientist, Quantum Chemistry Applications](https://jobsinquantum.com/jobs/quantinuum-advanced-r-and-d-scientist-quantum-chemistry-applications-73824fd4?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | UK Cambridge | On Site | Full Time | Nov 18 |
 | **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-senior-talent-partner-1c7a1589?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Senior Talent Partner](https://jobsinquantum.com/jobs/psiquantum-senior-talent-partner-1c7a1589?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | U.S. Field - Illinois | On Site | Full Time | Nov 17 |
 | **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-associate-process-engineer-d09a9f36?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Associate Process Engineer](https://jobsinquantum.com/jobs/psiquantum-associate-process-engineer-d09a9f36?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Milpitas, California | On Site | Full Time | Nov 17 |
@@ -70,7 +70,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-19 archive](archive/2026-11-19.md)
+- [2026-11-20 archive](archive/2026-11-20.md)
 
 ## About This Repository
 
