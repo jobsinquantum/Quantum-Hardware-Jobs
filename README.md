@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Quantum Hardware Jobs — 2026
 
-<sub><small>Last updated: Nov 23, 2026 at 23:49 UTC</small></sub>
+<sub><small>Last updated: Nov 24, 2026 at 22:21 UTC</small></sub>
 
 Daily quantum hardware jobs curated by Jobs in Quantum.
 Updated daily by [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs).
@@ -12,7 +12,11 @@ Visit [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
-| **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Technical Programme Manager, Manufacturing and Deployment](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Bothell, Washington, United States | On Site | Full Time | Nov 23 |
+| **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Technical Programme Manager, Manufacturing and Deployment](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Bothell, Washington, United States | On Site | Full Time | Nov 24 |
+| **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-senior-mechanical-design-engineer-f38e01d0?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Senior Mechanical Design Engineer](https://jobsinquantum.com/jobs/psiquantum-senior-mechanical-design-engineer-f38e01d0?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Milpitas, California | On Site | Full Time | Nov 24 |
+| **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-photonic-circuit-design-and-simulation-engineer-79dbaf74?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Photonic Circuit Design and Simulation Engineer](https://jobsinquantum.com/jobs/psiquantum-photonic-circuit-design-and-simulation-engineer-79dbaf74?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Palo Alto, California | On Site | Full Time | Nov 23 |
+| **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-photonic-circuit-data-analysis-engineer-07e8411a?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Photonic Circuit Data Analysis Engineer](https://jobsinquantum.com/jobs/psiquantum-photonic-circuit-data-analysis-engineer-07e8411a?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Palo Alto, California | On Site | Full Time | Nov 23 |
+| **[IonQ](https://jobsinquantum.com/jobs/ionq-principal-designer-44d06e98?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Principal Designer](https://jobsinquantum.com/jobs/ionq-principal-designer-44d06e98?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Bothell, Washington, United States | On Site | Full Time | Nov 23 |
 | **[Quantinuum](https://jobsinquantum.com/jobs/quantinuum-director-of-government-contracts-1144-e3a4cf45?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Director of Government Contracts - 1144](https://jobsinquantum.com/jobs/quantinuum-director-of-government-contracts-1144-e3a4cf45?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | US Arlington, VA | On Site | Contract | Nov 21 |
 | **[Quantinuum](https://jobsinquantum.com/jobs/quantinuum-advanced-r-and-d-scientist-quantum-chemistry-applications-73824fd4?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Advanced R&D Scientist, Quantum Chemistry Applications](https://jobsinquantum.com/jobs/quantinuum-advanced-r-and-d-scientist-quantum-chemistry-applications-73824fd4?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | UK Cambridge | On Site | Full Time | Nov 18 |
 | **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-senior-talent-partner-1c7a1589?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Senior Talent Partner](https://jobsinquantum.com/jobs/psiquantum-senior-talent-partner-1c7a1589?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | U.S. Field - Illinois | On Site | Full Time | Nov 17 |
@@ -58,10 +62,6 @@ Visit [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=r
 | **[Keysight Technologies](https://jobsinquantum.com/jobs/keysight-technologies-senior-technical-program-manager-hardware-strategy-and-operations-f515184c?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Senior Technical Program Manager, Hardware Strategy & Operations](https://jobsinquantum.com/jobs/keysight-technologies-senior-technical-program-manager-hardware-strategy-and-operations-f515184c?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Santa Rosa, California | On Site | Full Time | Nov 3 |
 | **[Infleqtion](https://jobsinquantum.com/jobs/infleqtion-engineering-technician-ii-e385e1da?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Engineering Technician II](https://jobsinquantum.com/jobs/infleqtion-engineering-technician-ii-e385e1da?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Louisville, United States | On Site | Full Time | Nov 3 |
 | **[Atomcomputing](https://jobsinquantum.com/jobs/atomcomputing-quantum-engineer-108a93db?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Quantum Engineer](https://jobsinquantum.com/jobs/atomcomputing-quantum-engineer-108a93db?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Boulder, CO | On Site | Full Time | Nov 2 |
-| **[Ionq](https://jobsinquantum.com/jobs/ionq-quantum-network-support-engineer-3bd4c83f?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Quantum Network Support Engineer](https://jobsinquantum.com/jobs/ionq-quantum-network-support-engineer-3bd4c83f?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Chattanooga, Tennessee, United States | On Site | Full Time | Nov 2 |
-| **[Ionq](https://jobsinquantum.com/jobs/ionq-quality-engineer-6a306b37?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Quality Engineer](https://jobsinquantum.com/jobs/ionq-quality-engineer-6a306b37?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | College Park, Maryland, United States | On Site | Full Time | Nov 2 |
-| **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-director-physical-security-2e2a6e8b?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Director, Physical Security](https://jobsinquantum.com/jobs/psiquantum-director-physical-security-2e2a6e8b?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Milpitas, California | On Site | Full Time | Nov 2 |
-| **[Keysight Technologies](https://jobsinquantum.com/jobs/keysight-technologies-software-engineer-c-and-c-awg-with-focus-on-software-architecture-d14ef0a4?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Software Engineer C# and C++ - AWG with Focus on Software Architecture](https://jobsinquantum.com/jobs/keysight-technologies-software-engineer-c-and-c-awg-with-focus-on-software-architecture-d14ef0a4?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Boeblingen, Germany | On Site | Full Time | Nov 2 |
 
 ---
 
@@ -70,7 +70,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-23 archive](archive/2026-11-23.md)
+- [2026-11-24 archive](archive/2026-11-24.md)
 
 ## About This Repository
 
