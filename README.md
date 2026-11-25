@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Quantum Hardware Jobs — 2026
 
-<sub><small>Last updated: Nov 24, 2026 at 22:21 UTC</small></sub>
+<sub><small>Last updated: Nov 25, 2026 at 21:38 UTC</small></sub>
 
 Daily quantum hardware jobs curated by Jobs in Quantum.
 Updated daily by [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs).
@@ -12,7 +12,8 @@ Visit [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
-| **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Technical Programme Manager, Manufacturing and Deployment](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Bothell, Washington, United States | On Site | Full Time | Nov 24 |
+| **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Technical Programme Manager, Manufacturing and Deployment](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Bothell, Washington, United States | On Site | Full Time | Nov 25 |
+| **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-intern-site-operations-australia-f720a968?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Intern - Site Operations, Australia](https://jobsinquantum.com/jobs/psiquantum-intern-site-operations-australia-f720a968?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Brisbane, Queensland, Australia | On Site | intern | Nov 25 |
 | **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-senior-mechanical-design-engineer-f38e01d0?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Senior Mechanical Design Engineer](https://jobsinquantum.com/jobs/psiquantum-senior-mechanical-design-engineer-f38e01d0?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Milpitas, California | On Site | Full Time | Nov 24 |
 | **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-photonic-circuit-design-and-simulation-engineer-79dbaf74?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Photonic Circuit Design and Simulation Engineer](https://jobsinquantum.com/jobs/psiquantum-photonic-circuit-design-and-simulation-engineer-79dbaf74?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Palo Alto, California | On Site | Full Time | Nov 23 |
 | **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-photonic-circuit-data-analysis-engineer-07e8411a?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Photonic Circuit Data Analysis Engineer](https://jobsinquantum.com/jobs/psiquantum-photonic-circuit-data-analysis-engineer-07e8411a?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Palo Alto, California | On Site | Full Time | Nov 23 |
@@ -61,16 +62,15 @@ Visit [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=r
 | **[Quantinuum](https://jobsinquantum.com/jobs/quantinuum-manufacturing-manager-1107-6591ec35?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Manufacturing Manager - 1107](https://jobsinquantum.com/jobs/quantinuum-manufacturing-manager-1107-6591ec35?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | US Broomfield, CO | On Site | Full Time | Nov 3 |
 | **[Keysight Technologies](https://jobsinquantum.com/jobs/keysight-technologies-senior-technical-program-manager-hardware-strategy-and-operations-f515184c?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Senior Technical Program Manager, Hardware Strategy & Operations](https://jobsinquantum.com/jobs/keysight-technologies-senior-technical-program-manager-hardware-strategy-and-operations-f515184c?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Santa Rosa, California | On Site | Full Time | Nov 3 |
 | **[Infleqtion](https://jobsinquantum.com/jobs/infleqtion-engineering-technician-ii-e385e1da?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Engineering Technician II](https://jobsinquantum.com/jobs/infleqtion-engineering-technician-ii-e385e1da?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Louisville, United States | On Site | Full Time | Nov 3 |
-| **[Atomcomputing](https://jobsinquantum.com/jobs/atomcomputing-quantum-engineer-108a93db?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Quantum Engineer](https://jobsinquantum.com/jobs/atomcomputing-quantum-engineer-108a93db?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Boulder, CO | On Site | Full Time | Nov 2 |
 
 ---
 
-**Current Stats:** 50 jobs | 0% remote | 9 companies | 5 salary ranges listed
+**Current Stats:** 50 jobs | 0% remote | 8 companies | 5 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-24 archive](archive/2026-11-24.md)
+- [2026-11-25 archive](archive/2026-11-25.md)
 
 ## About This Repository
 
