@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Quantum Hardware Jobs — 2026
 
-<sub><small>Last updated: Nov 26, 2026 at 21:27 UTC</small></sub>
+<sub><small>Last updated: Nov 27, 2026 at 21:10 UTC</small></sub>
 
 Daily quantum hardware jobs curated by Jobs in Quantum.
 Updated daily by [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs).
@@ -12,7 +12,8 @@ Visit [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
-| **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Technical Programme Manager, Manufacturing and Deployment](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Bothell, Washington, United States | On Site | Full Time | Nov 26 |
+| **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Technical Programme Manager, Manufacturing and Deployment](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Bothell, Washington, United States | On Site | Full Time | Nov 27 |
+| **[Infleqtion](https://jobsinquantum.com/jobs/infleqtion-photonics-engineer-746f87b0?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Photonics Engineer](https://jobsinquantum.com/jobs/infleqtion-photonics-engineer-746f87b0?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Kidlington, United Kingdom (Hybrid) | On Site | Full Time | Nov 26 |
 | **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-intern-site-operations-australia-f720a968?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Intern - Site Operations, Australia](https://jobsinquantum.com/jobs/psiquantum-intern-site-operations-australia-f720a968?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Brisbane, Queensland, Australia | On Site | intern | Nov 25 |
 | **[Quantinuum](https://jobsinquantum.com/jobs/quantinuum-sr-advanced-semiconductor-packaging-engineer-1160-c779210b?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Sr Advanced Semiconductor Packaging Engineer - 1160](https://jobsinquantum.com/jobs/quantinuum-sr-advanced-semiconductor-packaging-engineer-1160-c779210b?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | US Malta, NY | On Site | Full Time | Nov 24 |
 | **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-senior-mechanical-design-engineer-f38e01d0?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Senior Mechanical Design Engineer](https://jobsinquantum.com/jobs/psiquantum-senior-mechanical-design-engineer-f38e01d0?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Milpitas, California | On Site | Full Time | Nov 24 |
@@ -61,7 +62,6 @@ Visit [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=r
 | **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-director-quality-reliability-and-i-o-7fdec232?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Director Quality, Reliability & I/O](https://jobsinquantum.com/jobs/psiquantum-director-quality-reliability-and-i-o-7fdec232?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | New York | On Site | Full Time | Nov 4 |
 | **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-senior-manufacturing-engineer-photonics-manufacturing-and-npi-cf4974c4?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Senior Manufacturing Engineer – Photonics Manufacturing & NPI](https://jobsinquantum.com/jobs/psiquantum-senior-manufacturing-engineer-photonics-manufacturing-and-npi-cf4974c4?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Milpitas, California | On Site | Full Time | Nov 4 |
 | **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-manager-passive-components-8b7a18c8?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Manager, Passive Components](https://jobsinquantum.com/jobs/psiquantum-manager-passive-components-8b7a18c8?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Palo Alto, California | On Site | Full Time | Nov 3 |
-| **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-senior-it-asset-management-specialist-5cfeeb1e?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | **[Senior IT Asset Management Specialist](https://jobsinquantum.com/jobs/psiquantum-senior-it-asset-management-specialist-5cfeeb1e?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-hardware-jobs)** | Milpitas, California; Palo Alto, California | On Site | Full Time | Nov 3 |
 
 ---
 
@@ -70,7 +70,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-26 archive](archive/2026-11-26.md)
+- [2026-11-27 archive](archive/2026-11-27.md)
 
 ## About This Repository
 
